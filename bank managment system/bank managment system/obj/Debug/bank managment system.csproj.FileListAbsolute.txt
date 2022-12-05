@@ -1,0 +1,45 @@
+c:\users\92303\documents\visual studio 2015\Projects\bank managment system\bank managment system\bin\Debug\bank managment system.exe.config
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\bin\Debug\bank managment system.exe
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\bin\Debug\bank managment system.pdb
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\bin\Debug\Guna.UI2.dll
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank managment system.csprojResolveAssemblyReference.cache
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.Form1.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.Properties.Resources.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank managment system.csproj.GenerateResource.Cache
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank managment system.exe
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank managment system.pdb
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.login.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.MainMenu.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.Add_accounts.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.Setting.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.Transactions.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.Agent.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\bin\Debug\bank managment system.exe.manifest
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\bin\Debug\bank managment system.application
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank managment system.exe.manifest
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank managment system.application
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\obj\Debug\bank_managment_system.Form2.resources
+C:\Users\92303\Documents\Visual Studio 2015\Projects\bank managment system\bank managment system\bin\Debug\Bunifu_UI_v1.52.dll
+E:\study\C# Final project\bank managment system\bank managment system\bin\Debug\bank managment system.exe.config
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.exe
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.pdb
+E:\study\C# Final project\bank managment system\bank managment system\bin\Debug\bank managment system.exe.manifest
+E:\study\C# Final project\bank managment system\bank managment system\bin\Debug\bank managment system.application
+E:\study\C# Final project\bank managment system\bank managment system\bin\Debug\bank managment system.exe
+E:\study\C# Final project\bank managment system\bank managment system\bin\Debug\bank managment system.pdb
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.csprojResolveAssemblyReference.cache
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.Add_accounts.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.Agent.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.Form1.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.Form2.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.login.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.MainMenu.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.Properties.Resources.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.Setting.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank_managment_system.Transactions.resources
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.csproj.GenerateResource.Cache
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.exe.manifest
+E:\study\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.application
+E:\study\3rd Semester\C# Final project\bank managment system\bank managment system\bin\Debug\bank managment system.exe.config
+E:\study\3rd Semester\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.exe
+E:\study\3rd Semester\C# Final project\bank managment system\bank managment system\obj\Debug\bank managment system.pdb
